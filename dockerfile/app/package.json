@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "micro"
+  },
+  "dependencies": {
+    "micro": "latest",
+    "shortid": "latest"
+  }
+}
