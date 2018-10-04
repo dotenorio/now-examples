@@ -1,7 +1,7 @@
 ▲ now examples
 ----
 
-Examples to user after [this](http://bit.ly/now-serverless) presentation:
+Examples to use after [this](http://bit.ly/now-serverless) presentation:
 
 * [static](/static)
 * [nodejs](/nodejs)
