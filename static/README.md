@@ -1,4 +1,4 @@
-▲ static
+▲ Static
 ----
 
 To run, just execute:
