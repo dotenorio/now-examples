@@ -1,3 +1,8 @@
-static - ▲ now examples
+▲ static
 ----
 
+To run, just execute:
+
+```
+$ now
+```
