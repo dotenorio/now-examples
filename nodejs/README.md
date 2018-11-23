@@ -4,14 +4,14 @@
 To run, just execute:
 
 ```
-$ npm i
+$ yarn i
 $ now
 ```
 
-You can use `$ npm start` to see this server locally:
+You can use `$ yarn start` to see this server locally:
 
 ```
-$ npm start
+$ yarn start
 
 > @ start path\to\now-examples\nodejs
 > micro
