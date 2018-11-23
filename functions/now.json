@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "public": true,
+  "builds": [
+    { "src": "static/*.html", "use": "@now/static" },
+    { "src": "php/*.php", "use": "@now/php" },
+    { "src": "node/*.js", "use": "@now/node" }
+  ]
+}

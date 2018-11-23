@@ -1,0 +1,1 @@
+<?php echo "Function PHP 7 example to use with now 2.0!"; ?>
