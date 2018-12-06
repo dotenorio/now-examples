@@ -18,3 +18,7 @@ $ yarn start
 
 micro: Accepting connections on port 3000
 ```
+
+## Example
+
+![Exemple Docker Now 1.0](now-docker.gif)
