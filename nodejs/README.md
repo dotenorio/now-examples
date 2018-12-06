@@ -18,3 +18,6 @@ $ yarn start
 
 micro: Accepting connections on port 3000
 ```
+## Example
+
+![Exemple NodeJS Now 1.0](now-nodejs.gif)
